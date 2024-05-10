@@ -1,4 +1,4 @@
-# kv_store
+# pgkv
 
 > Postgres extension to create a KV Store in Postgres DB
 
