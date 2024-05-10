@@ -1,0 +1,5 @@
+comment = 'kv_store'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/kv_store'
+relocatable = false
+superuser = true
