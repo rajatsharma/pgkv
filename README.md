@@ -15,3 +15,9 @@ select set('first', '{"hello":"world"}');
 ```sql
 select get('first');
 ```
+
+- To delete the value for a set key
+
+```sql
+select del('first');
+```
