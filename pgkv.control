@@ -1,5 +1,5 @@
-comment = 'kv_store'
+comment = 'pgkv'
 default_version = '@CARGO_VERSION@'
-module_pathname = '$libdir/kv_store'
+module_pathname = '$libdir/pgkv'
 relocatable = false
 superuser = true
